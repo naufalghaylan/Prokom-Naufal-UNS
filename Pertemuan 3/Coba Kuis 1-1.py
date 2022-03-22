@@ -1,0 +1,27 @@
+#nomer 1
+#HK= harga kendaraan, DP=Down Payment, SBT=Suku Bunga Tahunan
+HM=float(input("Harga Kendaraan="))
+DP=HM*(0.20)
+ 
+SBT=HK*0.05
+print("=========================")
+print("1 Tahun")
+print("Down Payment", DP)
+print("Uang Muka=", DP+(SBT))
+print("Angsuran=", (HM+(SBT*1))/12)
+print("=========================")
+print("2 Tahun")
+print("Down Payment", DP)
+print("Uang Muka=", DP+(SBT*2))
+print("Angsuran=", (HM+(SBT*2))/24)
+print("=========================")
+print("3 Tahun")
+print("Down Payment", DP)
+print("Uang Muka=", DP+(SBT*3))
+print("Angsuran=", (HM+(SBT*3))/36)
+print("=========================")
+print("4 Tahun")
+print("Down Payment", DP)
+print("Uang Muka=", DP+(SBT*4))
+print("Angsuran=", (HM+(SBT*4))/48)
+print("=========================")
