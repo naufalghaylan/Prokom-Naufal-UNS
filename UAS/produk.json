@@ -1,0 +1,95 @@
+{   "Summary": {
+        "filename": "produk.json",
+        "created_by" : "priyandari",
+        "created_at" : "2022-06-14",
+        "updated_at" : "2022-06-14"
+    },
+    "Produk": {
+        "P023": {
+            "nama": "Masker Orlens",
+            "harga": 25000,
+            "persediaan": 30,
+            "satuan": "dus"
+        },
+        "P234": {
+            "nama": "Asep Rokok",
+            "harga": 23000,
+            "persediaan": 33,
+            "satuan":"unit"
+        },
+        "P412": {
+            "nama": "Sikat Gigi",
+            "harga": 7500,
+            "persediaan": 123,
+            "satuan":"unit"
+        },
+        "P422": {
+            "nama": "Pasta Gigi",
+            "harga": 12500,
+            "persediaan": 103,
+            "satuan":"unit"
+        },
+        "P022": {
+            "nama": "Masker Careon",
+            "harga": 12500,
+            "persediaan": 103,
+            "satuan":"unit"
+        },
+        "P622": {
+            "nama": "Air 600ml",
+            "harga": 2500,
+            "persediaan": 103,
+            "satuan":"botol"
+        },
+        "P644": {
+            "nama": "Air 300ml",
+            "harga": 1500,
+            "persediaan": 203,
+            "satuan":"botol"
+        },
+        "P523": {
+            "nama": "Sumpia snack",
+            "harga": 8500,
+            "persediaan": 75,
+            "satuan":"pack"
+        },
+        "P525": {
+            "nama": "Ampyang snack",
+            "harga": 11500,
+            "persediaan": 25,
+            "satuan":"pack"
+        },
+        "P513": {
+            "nama": "Tangoe snack",
+            "harga": 4500,
+            "persediaan": 225,
+            "satuan":"pack"
+        },
+        "P563": {
+            "nama": "Mie kering",
+            "harga": 1500,
+            "persediaan": 325,
+            "satuan":"pack"
+        },
+        "P231": {
+            "nama": "Match Asep",
+            "harga": 4500,
+            "persediaan": 15,
+            "satuan":"unit"
+        },
+        "P574": {
+            "nama": "Mie bumbu",
+            "harga": 2500,
+            "persediaan": 225,
+            "satuan":"pack"
+        },
+        "P565": {
+            "nama": "Mie eunak",
+            "harga": 3500,
+            "persediaan": 125,
+            "satuan":"pack"
+        }
+    }
+}
+
+
